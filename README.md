@@ -1,11 +1,30 @@
+# Shravya Aher Portfolio
 
-  # Pastel Themed Portfolio Website
+Personal portfolio website built with React, TypeScript, Vite, and Tailwind CSS.
 
-  This is a code bundle for Pastel Themed Portfolio Website. The original project is available at https://www.figma.com/design/5fYhww0QrU4R2FtgDy9W3z/Pastel-Themed-Portfolio-Website.
+## Live Website
+Coming soon
 
-  ## Running the code
+## About Me
+Data Science undergraduate at Arizona State University graduating May 2026. Interested in software engineering, machine learning, AI, and data-driven product development.
 
-  Run `npm i` to install the dependencies.
+## Features
+- Responsive modern UI
+- Projects showcase
+- Resume section
+- Contact links
 
-  Run `npm run dev` to start the development server.
-  
+## Tech Stack
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+
+## Projects Included
+- Data analytics projects
+- Machine learning projects
+- Software development work
+
+## Contact
+LinkedIn: add-link-here  
+GitHub: https://github.com/shravya-aher
